@@ -1,6 +1,6 @@
 # 🔊 PluginMegaphone pour Nova-Life
 
-Le plugin **/megaphone** permet aux joueurs d’activer ou désactiver un mode haut-parleur pour leurs communications, augmentant la portée de la voix en jeu. Il propose également l’envoi d’annonces textuelles dans le chat au nom de l’entreprise du joueur.
+Le petit plugin **megaphone** permet aux joueurs d’activer ou désactiver un mode haut-parleur pour leurs communications, augmentant la portée de la voix en jeu. Il propose également l’envoi d’annonces textuelles dans le chat au nom de l’entreprise du joueur.
 
 ---
 
