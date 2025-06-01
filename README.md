@@ -14,14 +14,14 @@ Le petit plugin **megaphone** permet aux joueurs d’activer ou désactiver un m
 
 ## 🚀 Installation
 
-1. Copier le fichier `PluginMegaphone.dll` (ou le code source) dans le dossier `plugins` de votre serveur Nova-Life.
+1. Télécharger le fichier `PluginMegaphone.dll` (ou le code source) dans le dossier `plugins` de votre serveur Nova-Life.
 2. Vérifier que le plugin est bien chargé au démarrage du serveur.
 
 ---
 
 ## 🎮 Utilisation
 
-* Le joueur peut faire P->Métiers->Mégaphone pour activer ou désactiver le mode mégaphone.
+* Le joueur peut faire P -> Métiers -> Mégaphone pour activer ou désactiver le mode mégaphone.
 * Via le menu métier, le joueur peut :
 
   * Activer/désactiver le mégaphone.
