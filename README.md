@@ -7,7 +7,6 @@ Le plugin **/megaphone** permet aux joueurs d’activer ou désactiver un mode h
 ## ✨ Fonctionnalités principales
 
 * 🔈 **Activation/Désactivation** du mode haut-parleur via la commande `/megaphone` ou un menu métier.
-* 🏢 **Annonce textuelle d’entreprise** : envoyer un message au nom de son entreprise directement dans le chat.
 * ✅ **Gestion interne** des joueurs ayant activé le mégaphone pour éviter les doublons.
 * 📨 **Notifications claires** pour informer le joueur de l’état du mégaphone (activé, désactivé, etc.).
 
@@ -26,7 +25,6 @@ Le plugin **/megaphone** permet aux joueurs d’activer ou désactiver un mode h
 * Via le menu métier, le joueur peut :
 
   * Activer/désactiver le mégaphone.
-  * Envoyer une annonce dans le chat au nom de son entreprise.
 
 ---
 
