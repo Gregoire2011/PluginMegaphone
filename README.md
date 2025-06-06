@@ -6,7 +6,7 @@ Le petit plugin **megaphone** permet aux joueurs d’activer ou désactiver un m
 
 ## ✨ Fonctionnalités principales
 
-* 🔈 **Activation/Désactivation** du mode haut-parleur via la commande `/megaphone` ou un menu métier.
+* 🔈 **Activation/Désactivation** du mode haut-parleur via le menu métier.
 * ✅ **Gestion interne** des joueurs ayant activé le mégaphone pour éviter les doublons.
 * 📨 **Notifications claires** pour informer le joueur de l’état du mégaphone (activé, désactivé, etc.).
 
@@ -22,9 +22,6 @@ Le petit plugin **megaphone** permet aux joueurs d’activer ou désactiver un m
 ## 🎮 Utilisation
 
 * Le joueur peut faire P -> Métiers -> Mégaphone pour activer ou désactiver le mode mégaphone.
-* Via le menu métier, le joueur peut :
-
-  * Activer/désactiver le mégaphone.
 
 ---
 
